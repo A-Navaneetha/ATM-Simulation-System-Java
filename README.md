@@ -2,22 +2,22 @@
 
 A simple ATM Simulation System developed using Java. This console-based application allows users to perform basic banking operations such as depositing money, withdrawing funds, and checking account balance through a menu-driven interface.
 
-## 📌 Features
+## Features
 
-- 💰 Deposit Money
-- 💸 Withdraw Money
-- 📊 Check Account Balance
-- 🔄 Menu-Driven Interface
-- ✅ Input Validation for Insufficient Balance
-- 🚪 Exit Option
+-  Deposit Money
+-  Withdraw Money
+-  Check Account Balance
+-  Menu-Driven Interface
+-  Input Validation for Insufficient Balance
+-  Exit Option
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Java
 - Object-Oriented Programming (OOP)
 - Scanner Class for User Input
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 ATM-Simulation/
@@ -27,7 +27,7 @@ ATM-Simulation/
 └── README.md
 ```
 
-## 📸 Sample Output
+## Sample Output
 
 ```text
 PS C:\ATM-Simulation> javac ATM.java
@@ -111,7 +111,7 @@ Enter Choice: 4
 Thank You!
 ```
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
 This project demonstrates:
 
@@ -123,7 +123,7 @@ This project demonstrates:
 - User Input Handling
 - Basic Banking Logic
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 - PIN Authentication
 - Multiple User Accounts
